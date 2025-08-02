@@ -1,5 +1,0 @@
-Un documento con una breve descripcion del proyecto (3 pantallas, que incluyan un CRUD)-
-Diagrama de clases,
-Diagrama de BD,
-Trello basico. 
-Presentacion (PPT).
