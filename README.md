@@ -4,7 +4,7 @@ Trabajo practico final tercer cuatrimestre
 # G2P - "Garage to Park"
 Plataforma web de alquiler de estacionamientos :
 *Full‑stack demo app built with NestJS, React & Materialize that searchs free parking cars space among commercials and housing.*
-![img](https://github.com/cballende/CPFS-2025-TPF3C-ALLENDE/blob/Feature/Docs/Resource/Media/bienvenida.jpeg))
+![img](https://github.com/cballende/CPFS-2025-TPF3C-ALLENDE/blob/Feature/Docs/Resource/Media/bienvenida.jpeg)
 
 #### Tabla de contenido
     1. Descripción
